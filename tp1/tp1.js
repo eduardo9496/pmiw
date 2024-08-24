@@ -1,3 +1,4 @@
+/* https://youtu.be/tSxTDIOpTbk?si=LkYg3TSz8EJhnI1Y */
 let imagen;
 let posX1;
 let posY1;
