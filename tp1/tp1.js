@@ -1,4 +1,5 @@
 /* https://youtu.be/tSxTDIOpTbk?si=LkYg3TSz8EJhnI1Y */
+/* Aclaracion del reinicio: se reinicia a su posicion original precionando la tecla "f" luego "a" */
 let imagen;
 let posX1;
 let posY1;
